@@ -47,7 +47,43 @@ border-radius: 50%;
 .margin-2{
     margin-left: 10%;
     margin-top: 5%;
+    margin-bottom: 5%;
 }
 .background-image{
     background-image: url(7.png);
+    margin-bottom: 80px;
 }
+.text-align{
+    text-align: center;
+}
+.width_for_all{
+    width: 30%;
+    
+}
+.width_for_all img{
+    width: 100%;
+}
+.img-size{
+    height: 250px;
+    width: 480px;
+    border: 1px solid #AAA;
+    border-radius: 20px;
+}
+.img-size-2{
+     height: 260px;
+    width: 380px;
+    border-radius: 20px;
+
+}
+
+.box{   box-shadow: 10px 10px 40px #aaa;
+  padding: 20px 20px 30px 20px;
+   width: 380px;
+   margin-left: 20px;
+   border-radius: 20px;
+}
+.footer-bg{
+    background-color: dimgray;
+    padding: 20px 5px 150px 5px;
+}
+
